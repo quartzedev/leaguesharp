@@ -1,6 +1,7 @@
-echo # leaguesharp >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/xOstateczny/leaguesharp.git
-git push -u origin master
+##### 
+Paczuszka L# stworzona przez xOstateczny
+Zabrania się kopiowania na inne strony!
+Zabrania się przywłaszczania!
+#####
+
+Profil na MPCforum: http://www.mpcforum.pl/user/741472-xostateczny/
